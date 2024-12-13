@@ -1,0 +1,3164 @@
+hop ..
+hop .. ..
+ls
+cd ..
+hop ..
+ls
+reveal
+ls
+ls -l
+hop
+ls
+sleep 2
+sleep 2.5
+sleep 3
+echo hell''
+s
+ls
+ls /home
+ls .
+ls ..
+ls -l ./
+reveal -l
+sleep 3 &sleep 5
+sleep 3 ; sleep 3&
+verf
+ref
+echo "Lorem Ipsum" 
+ wc
+echo "Lorem Ipsum" | wc
+wc .
+wc main.c
+echo "hello world" 
+ wc
+echo "hello world" | wc
+echo hello world 
+ wc
+echo hello world | wc
+echo "Lorem Ipsum" 
+ wc 
+ sed 's/ //g'
+echo "Lorem Ipsum" | wc | sed 's/ //g'
+ls -l 
+ head
+ls -l | head
+echo
+ls -l 
+ head-5
+ls -l | head-5
+echo
+ls -l 
+head
+ls -l |head
+echo
+la -l 
+wc
+la -l |wc
+cat result.txt 
+ grep “Rajat Dua” 
+ tee file2.txt 
+ wc -l
+cat result.txt | grep “Rajat Dua” | tee file2.txt | wc -l
+ls -l 
+ wc
+ls -l | wc
+echo
+echo hello 
+ wc
+echo hello | wc
+echo
+ls -l 
+head
+ls -l |head
+echo 'Hello, bash pipes!'
+echo hello 
+ wc
+echo hello | wc
+echo
+echo hello 
+ wc
+echo hello | wc
+echo
+hop
+ls -l 
+head
+ls -l |head
+echo
+ls -l
+echo hello 
+ wc
+echo hello | wc
+ls -l 
+ head
+ls -l | head
+echo
+echo ew
+echo
+wewjke
+echo
+echo hello
+echo
+echo "hello"
+echo
+re
+echo
+echo ev
+echo
+ervre
+echo hello
+ls -l 
+ head
+ls -l | head
+echo
+echo hello
+wc
+echo hello | wc
+echo
+ls -l
+head
+ls -l | head
+echo
+cat
+cat main.c
+dc
+re
+r
+rv
+r
+echo
+echo hello
+wc
+echo hello |wc
+echo
+cat
+echo $(cat)
+echo
+echo hello
+wc
+echo hello | wc
+echo
+hop
+ls -l
+echo
+ls -l f1
+echo hello
+wc
+echo hello |wc
+echo "hello"
+wc
+echo "hello" | wc
+echo
+ls -l 
+ls -l
+head
+ls -l | head
+ls -l 
+ls -l
+head
+ls -l | head
+ls- l
+head
+ls- l | head
+echo
+echo "Hello world" > newfile.txt
+echo hello > new.txt
+echo "Hello world" > newfile.txt
+echo hello >new.txt
+hjrbhj >rt
+echo hello > new.txt
+echo hello >new.txt
+echo hello > co.txt
+echo hello > hel.txt
+ls -l > hel.txt
+echo
+echo hello>> hel.txt
+wc<echo hello > hel.txt
+wc < hel.txt
+wc < main.c
+echo
+reveal
+echo
+hop f1
+reveal main.c
+ev
+echo
+ech ohello
+echo hel
+wc < main.c
+wc <main.c <hel.txt
+wc <hel.txt
+echo hello <hel.txt
+echo hello>hel.txt
+ls -l
+head -5
+ls -l | head -5
+echo "Lorem Ipsum"
+wc
+sed 's/ //g'
+echo "Lorem Ipsum" | wc | sed 's/ //g'
+echo "Lorem Ipsum"
+wc
+echo "Lorem Ipsum" | wc
+cat < a.txt
+wc
+cat>b.txt
+cat < a.txt | wc | cat>b.txt
+cat<at.xt
+cat < a.txt
+cat <hel.txt
+wc
+cat <hel.txt |wc
+cat <hel.txt
+wc  cat>b.txt
+cat <hel.txt | wc  cat>b.txt
+cat <hel.txt
+wc
+cat>b.txt
+cat <hel.txt | wc|cat>b.txt
+cat.txt<er
+wc <hel.txt
+reveal -l >hel.txt
+reveal -l
+wc
+reveal -l | wc
+hop 
+hop > hel.txt
+tbty 
+tbty > hel.txt
+echo "Hello world" 
+echo "Hello world" > newfile.txt
+cat newfile.txt
+wc < a.txt
+wc 
+wc < newfile.txt
+echo "Lorem ipsum" 
+echo "Lorem ipsum" > newfile.txt
+echo "dolor sit amet" 
+echo "dolor sit amet" >> newfile.txt
+cat newfile.txt
+wc 
+wc < newfile.txt > a.txt
+cat a.txt
+echo "Lorem Ipsum"
+wc
+echo "Lorem Ipsum" | wc
+echo "Lorem Ipsum"
+wc
+sed 's/ //g'
+echo "Lorem Ipsum" | wc | sed 's/ //g'
+wc 
+wc < hel.txt
+echo
+wc 
+wc <hel.txt
+reveal -l 
+reveal -l > hel.txt
+wc
+wc<hel.txt
+dhfh <rbtr
+vjkjnr
+vjkjnr<newfile.txt
+echo
+wc 
+wc <hel.txt
+echo "hello world" 
+echo "hello world" <hel.txt
+echo "hello wreh " 
+echo "hello wreh " >hel.txt
+echo "rtgt" 
+echo "rtgt" >> hel.txt
+echo
+wc 
+wc > hel.txt
+wc
+wc<hel.txt
+echo
+wc
+wc<newfile.txt
+wc
+wc<hel.txt
+echo errvtrvtrv trgtrgt  rtvr
+echo errvtrvtrv trgtrgt  rtvr>hel.txt
+echo efvervrvtrvtrv sanyam
+echo efvervrvtrvtrv sanyam>hel.txt
+echo rec df fg   ty 
+echo rec df fg   ty >>hel.txt
+wc 
+wc <hel.txt
+echo
+wc 
+wc <hel.txt
+wc 
+wc <hel.txt
+\wc 
+\wc <a.txt
+wc
+wc<newfile.txt
+hop ..
+hop
+wc newfile.txt
+wc
+wc<newfile.txt
+wc
+wc<log.txt
+echo sdvre 
+echo sdvre >hel.txt
+echo wefyuve 
+echo wefyuve >hel.txt
+echo
+cat hel.txt
+wc 
+wc <hel.txt
+wc hel.txt
+echo ehure 
+echo ehure > hel.txt
+df
+sdsd
+echo hl'
+d
+echo hello
+echo
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+wc 
+wc < hel.txt
+echo erjinvre
+echo ehjhe
+echo ehjhe>hel.txt
+wc 
+wc <hel.txt
+wc hel.txt
+wc 
+wc <hel.txt
+echo hwbdcbhdcbhjedhj
+echo rfhvr
+echo rfhvr>hel.txt
+echo ejce
+wc
+wc<newfile.txt
+wc rejkvjkre
+wc everh
+echo 
+echo <hel.txt
+wc 
+wc <hel.txt
+cat newfile
+cat newfile.txt
+echo 
+echo <newfile.txt
+echo hjjbhfbe
+wc 
+wc <hel.txt
+echo ewjcfjhb
+echo ewjcfjhb<hel.txt
+wc 
+wc <hel.txt
+echo dvre
+echo dvre<hel.txt
+wc 
+wc <hel.txt
+echo ehgvie
+echo ehgvie>hel.txt
+echo
+wc
+wc<hel.txt
+echo wefewuu
+echo wefewuu>hel.txt
+cat hel.txt
+wc
+wc<hel.txt
+echo jejev
+echo jejev>hel.txt
+wc
+wc<hel.txt
+echo "Hello world" 
+echo "Hello world" > newfile.txt
+cat newfile.txt
+wc 
+wc < a.txt
+echo "Lorem ipsum" 
+echo "Lorem ipsum" > newfile.txt
+echo "dolor sit amet" 
+echo "dolor sit amet" >> newfile.txt
+cat newfile.txt
+wc 
+wc < newfile.txt
+wc 
+wc < newfile.txt > a.txt
+cat a.txt
+echo "Lorem Ipsum"
+wc
+echo "Lorem Ipsum" | wc
+echo "Lorem Ipsum"
+wc
+sed 's/ //g'
+echo "Lorem Ipsum" | wc | sed 's/ //g'
+echo ergrejk
+echo ergrejk>>hel.txt
+echo hebhjvhjre
+echo hebhjvhjre>>hel.txt
+wc
+wc<newfile.txt
+wc
+wc<hel.txt
+echo webvrehv
+echo webvrehv<hel.txt
+wc
+wc<hel.txt
+echo "Hello World" 
+echo "Hello World" > newfile.txt
+cat newfile.txt
+wc
+echo "Hello World" > newfile.txt | cat newfile.txt | wc
+ echo "hello" 
+ echo "another one" 
+ echo "hi"; echo "hello" > newfile.txt; cat newfile.txt; echo "another one" > anotherfile.txt & cat anotherfile.txt
+ echo "hello" 
+ echo "another one" 
+ echo "hi"; echo "hello" > newfile.txt; cat newfile.txt; echo "another one" > anotherfile.txt ; cat anotherfie.txt
+echo `fasdfaf\nadfafd\n`
+wc -l &
+echo `fasdfaf\nadfafd\n` | wc -l &
+echo ejbhvhj &
+echo `fasdfaf\nadfafd\n`
+wc -l &
+echo `fasdfaf\nadfafd\n` | wc -l &
+ echo "another one" 
+ newfile.txt; cat newfile.txt; echo "another one" > anotherfile.txt & cat anotherfile.txt
+ echo "hello" 
+ echo "another one" 
+ echo "hi"; echo "hello" > newfile.txt; cat newfile.txt; echo "another one" > anotherfile.txt & cat anotherfile.txt
+echo "hello" 
+ echo "another one" 
+echo "hello" > newfile.txt; cat newfile.txt; echo "another one" > anotherfile.txt & cat anotherfile.txt
+ echo "another one" 
+newfile.txt; cat newfile.txt; echo "another one" > anotherfile.txt & cat anotherfile.txt
+ echo "another one" 
+echo hello 
+echo "another one" 
+echo hello > newfile.txt; cat newfile.txt;echo "another one" > anotherfile.txt & cat anotherfile.txt
+echo hello 
+echo hello > newfile.txt; cat newfile.txt;echo "another one"
+echo hello & 
+echo hello & >newfile.txt
+echo hello &
+ echo hello & 
+ echo hello & >newfile.txt
+echo hello & 
+echo hello & >newfile.txt
+echo hello 
+echo hello >newfile.txt &
+cat newfile.txt
+wc
+
+cat newfile.txt | wc |
+cat newfile.txt
+wc
+
+echo hello 
+echo hello >newfile.txt
+cat newfile.txt
+wc
+cat newfile.txt | wc
+cat newfile.txt
+wc
+
+cat newfile.txt | wc |
+cat newfile.txt
+wc
+cat newfile.txt | wc
+cat newfile.txt
+wc
+
+cat newfile.txt | wc|
+cat newfile.txt
+wc
+cat newfile.txt | wc
+cat newfile.txt
+wc
+cat newfile.txt | wc
+wc 
+wc < newfile.txt
+echo "hello world"
+echo "hello world">newfile.txt
+wc 
+wc <newfile.txt
+wc 
+wc 
+wc <newfile.txt>a.txt
+ echo "hello" 
+ echo "another one" 
+ echo "hi"; echo "hello" > newfile.txt; cat newfile.txt; echo "another one" > anotherfile.txt & cat anotherfile.txt
+wc 
+wc <newfile.txt
+hbervui
+wc 
+wc <a.txt
+echo "Hello World" 
+echo "Hello World" > newfile.txt
+cat newfile.txt
+wc
+echo "Hello World" > newfile.txt | cat newfile.txt | wc
+cat 
+cat < a.txt
+wc
+sed 's/ //g'
+cat 
+cat > b.txt
+cat < a.txt | wc | sed 's/ //g' | cat > b.txt
+cat 
+cat < a.txt
+wc
+sed 's/ //g'
+cat < a.txt | wc | sed 's/ //g' 
+cat 
+cat < a.txt
+wc
+cat < a.txt | wc
+cat 
+cat < a.txt
+wc
+
+cat < a.txt | wc|
+cat 
+cat <a.txt
+cat 
+cat <newfile.txt
+cat 
+cat <newfile.txt>a.txt
+cat newfile.txt
+cat
+cat<newfile.txt
+echo hello
+cat
+echo newfile.txt
+cat
+echo log.txt
+cat
+reveal -l
+wc
+reveal -l | wc
+wc<reveal -l
+wcwc 
+wcwc <newfile.txt & hop ..
+wc 
+wc <newfile.txt & hop .. 
+wvewf
+wvewf<newfile.txt
+echo wiecweij
+wc 
+wc <newfile.txt
+gbkrb<ewuif
+svewjf
+svewjf>fewhbyjfew
+echo log.txt
+cat
+echo log.txt
+echo log.txt|cat
+echo erjkv
+cat
+echo vbvk
+echo vbvk|cat
+echo ekgr
+cat
+activities
+hop ..
+activities
+fdv
+activities
+revrejvkev
+wefew
+activities
+drbtd
+activities
+ls -l
+activities
+man signal
+
+man ping
+
+emans newfile.txt
+emacs newfile.txt
+proclore
+activities
+sleep 5 &
+activities
+ping 15954 15
+activities
+sleep 5 &
+activities
+sleep 5 &
+signal
+activities
+sleep 5 &
+activities
+ekjvje
+activities
+sleep 5 &
+activities
+sleep 5 &
+ehivbe
+activities
+sleep 5 &
+activities
+sleep 5 &
+ping 16612 15
+sleep 20 &
+ping 16622 15
+activities
+sleep 100 &
+activities
+ping 16655 15
+activities
+sleep 100 &
+activities
+ping 16722 15
+activities
+proclore 16722
+sleep 1000 &
+activities
+ping 16761 15
+proclore 16761
+activities
+sleep 1000 &\
+sleep 1000 &
+proclore 16796
+ping 16796 15
+proclore 16796
+activities
+sleep 1000 &
+ping 16861 15
+activities
+sleep 100 &
+ping 16992 18
+activities
+sleep 100 &
+ping 17012 15
+activities
+sleep 100 &
+ping 17691 15
+activities
+sleep 100 &
+ping 17736 15
+activities
+sleep 100 &
+ping 17799 15
+activities
+ghjjh
+activities
+sleep 100 &
+ping 17892 15
+activities
+sleep 10 &
+activities
+sleep 5
+activities
+sleep 5 &
+activitivwefe
+sleep 5 &
+activities
+sleep 5 &
+activties
+sleep 100 &
+actvities
+sleep 5 &
+sleep 100 &
+activities
+sleep 5 &
+activities
+sleep 5 &
+activities
+sleep 100 &
+echo &
+activities
+emacs
+vim &
+sleep 10 &
+activities
+sleep 10 &
+activites
+activities
+sleep 5 &
+sleep 10 &
+activiites
+sleep 100 &
+activities
+ping 9493 15
+activities
+sleep 1000 &
+ping 9519 15
+activities
+vim &
+sleep 5 &
+sleep 5
+sleep 5 &
+
+sleep 5 
+sleep 5 &
+ve
+
+sleep 1000
+sleep 1000 &
+
+[Aerre
+sleep 5 &
+sleep 10 &
+sleep 5 &
+sleep 5
+sleep 5 &
+sleep 5
+sleep 5 &
+
+sleep 5 
+sleep 5
+[1;5A[A
+sleep 5
+sleep 5 &
+sleep 5
+activites
+activities
+getit
+chrome
+sleep 10 &
+activities 18624
+[A[A
+sleep 100 &
+activities
+fg 19005
+sleep 10 &
+fg 19051
+sleep 10 &
+fg 19064
+activities
+sleep 5
+sleep 10 &
+ping 19117 19
+activities
+fg 19117
+sleep 100 &
+ping 19117 19
+ping 19152 19
+activities
+fg 19152
+wegffffffffffffffffffffwefjkkkkkkkkkkkkkkkkkkkkkkkk
+
+sleep 10 &
+ireuv
+evhe
+eef
+sleep 10
+[A[A[A
+sleep 10
+sleep 20 &
+sleep 5 
+sleep 10
+[A[A
+sleep 10
+sleep 20 &
+activities
+ping 19959 19
+activities
+bg 19959
+activities
+[A[A
+sleep 30 &
+ping 20049 19
+bg 20049
+activities
+
+sleep 10 &
+
+sleep 10 &
+ping 20163 15
+getit
+getit &
+gedit
+gedit &
+activities
+ping 20317 47
+sleep 100
+proclore 1234
+neonate -n 4
+[A[A
+neonate -n 4
+
+neonate -n 1
+neonate -n 2
+neonte -n 4
+neonate -n 4
+sleep 5
+echo
+sleep 5
+neonate -n 2
+[A[A
+neonate -n 2
+
+xxxx
+xx
+xxxxxxxxxxneonate -n 3
+exho
+echo
+hop
+neonate -n 3
+
+neonate -n 2
+cat file.txt 
+ wc -l
+cat file.txt | wc -l
+cat newfile.txt 
+wc -l
+cat newfile.txt |wc -l
+cat newfile.txt
+cat newfile.txt 
+ wc-l
+cat newfile.txt | wc-l
+cat newfile.txt 
+wc
+cat newfile.txt |wc
+cat newfile.txt 
+ wc -l
+cat newfile.txt | wc -l
+cat newfile.txt
+wc -l
+cat newfile.txt|wc -l
+du -ah /path/to/directory 
+ sort -rh 
+ head -n 5
+du -ah /path/to/directory | sort -rh | head -n 5
+du -ah /home 
+ sort -rh 
+ head -n 5
+du -ah /home | sort -rh | head -n 5
+du -ah /home 
+ sort -rh 
+ head -n 5
+tail -f /var/log/syslog 
+ grep "error"
+tail -f /var/log/syslog | grep "error"
+ls -l 
+ grep ".txt"
+ls -l | grep ".txt"
+ls -l 
+ grep ".txt"
+ls -l 
+ls -l | grep ".txt"
+ls -l
+ls -l 
+ wc
+ls -l | wc
+ls -l grep
+ls -l grep "new.txt"
+ls -l 
+ grep "new.txt"
+ls -l | grep "new.txt"
+grep new.txt
+echp
+echo
+ls -l
+hop
+echp
+echo
+hop
+echo
+ervre
+echo
+reveal -l
+ls -l
+echo
+ls -l
+env 
+ grep -i echo
+env | grep -i echo
+type echo
+/bin/echo
+env 
+ grep -i echo
+env | grep -i echo
+alias echo
+echo
+wevkhbre
+echo
+ewfjjkerjveerkvecho
+echo
+ls - 
+wef 
+ls - |wef 
+echo
+ls 
+
+ls ||||
+echo
+ls -l 
+ grep
+ls -l | grep
+edh
+echo
+ls -l 
+grep ".txt"
+ls -l |grep ".txt"
+echo
+ls -l 
+wc
+ls -l |wc
+echo
+echo "Lorem Ipsum" 
+ wc
+echo "Lorem Ipsum" | wc
+cat 
+cat < a.txt 
+ wc 
+ sed 's/ //g' 
+ cat 
+ cat > b.txt
+cat < a.txt | wc | sed 's/ //g' | cat > b.txt
+cat 
+cat < a.txt 
+ wc 
+ cat b.txt
+cat < a.txt | wc | cat b.txt
+cat b.txt
+cat 
+cat <a.txt 
+   wc 
+ cat 
+ cat > b.txt
+cat <a.txt |   wc | cat > b.txt
+cat b.txt
+cat 
+cat <a.txt 
+   wc 
+ cat 
+ cat > b.txt   
+
+cat <a.txt |   wc | cat > b.txt   |
+echo hello world 
+ wc &
+echo hello world | wc &
+
+echo hello world & 
+wc 
+echo hello world & |wc 
+activities
+echo hello world &
+echo hello weold
+ wc
+echo hello weold| wc
+echo hello world 
+wc &
+echo hello world |wc &
+activities
+echo hello world &
+echo
+echo hello wolrd
+echo
+echo hello 
+ wc &
+echo hello | wc &
+echo hello &
+echo hello 
+ wc &
+echo hello | wc &
+echo hello world 
+ wc &
+echo hello world | wc &
+
+echo hello 
+ wc &
+echo hello | wc &
+echo hello &
+activities
+echo hello &
+activities
+struct sigaction sa;
+sa.sa_handler = child_handler;
+sa.sa_flags = SA_RESTART;
+sigemptyset(&sa.sa_mask);
+if (sigaction(SIGCHLD, &sa, NULL) == -1) {
+    perror("sigaction");
+    exit(1);
+}
+echo hello
+echo hello &
+activities
+echo hello world &
+activities
+echo hello & 
+ wc
+echo hello & | wc
+ech ohello 
+ wc &
+ech ohello | wc &
+echo
+echo hello
+echo hello 
+ wc &
+echo hello | wc &
+echo hello & 
+wc
+echo hello & |wc
+echo hello & 
+ wc
+echo hello & | wc
+echo hello 
+ wc &
+echo hello | wc &
+echo hello 
+ wc &
+activities
+
+echo hello [A
+echo hello 
+ wc &
+echo hello | wc &
+echo hello 
+wc &
+echo hello |wc &
+activities
+activiities
+activities
+echo hello &
+
+hop ..
+hop ..>newfile.txt
+hop ..
+hop .. 
+hop .. >newfile.txt
+hop ..
+hop
+hop .. 
+hop .. >newfile.txt
+
+reveal -l 
+reveal -l >newfile.txt
+seek new 
+seek new >newfile.txt
+reveal -l .. 
+reveal -l .. >newfile.txt
+hop .. 
+hop .. > newfile.txt
+hop ..
+hop .. 
+hop .. >newfile.txt
+hop
+hop>newfile.txt
+hop 
+hop .. 
+hop .. >newfile.txt
+hop .. 
+hop ..
+hop ..>newfile.txt
+reveal
+hop .
+hop ..
+hop .
+hop .. 
+hop .. >newfile.txt
+hop .. 
+hop .
+hop .. 
+hop .. >newfile.txt
+hop .. 
+hop ..
+hop ..>newfile.txt
+hop ..
+hop 
+hop .. 
+hop .. >newfile.txt
+hop .. 
+hop mp1mid 
+hop mp1mid > newfile.txt
+gop ..
+hop ..
+hop mp1mid 
+hop mp1mid > newfile.txt
+hop .. 
+hop .. >newfile.txt
+hop jebv 
+hop jebv >newfile.txt
+ls
+echo hello world
+echo hello world>newfile.txt
+cat newfile.txt
+wc
+wc>newfile.txt
+cat newfile.txt 
+wc
+cat newfile.txt |wc
+wc 
+wc < newfile.txt
+wc newfile.txt
+echo
+wc 
+wc <newfile.txt
+neonate -n 3
+echo hello
+neonate -n 4
+
+neonate -n 3
+neonate -n 2
+
+iMan sleep
+iman sleep extra
+oid manpage(char *t)
+{
+    char delimiters[] = " ";
+    char *token;
+    char *saveptr;
+    char *command;
+    token = strtok_r(t, delimiters, &saveptr);
+    command = strtok_r(NULL, delimiters, &saveptr);
+    const char *hostname = "man.he.net";
+    const char *service = "http"; 
+    //char command[] = "open";        
+    struct addrinfo hints;
+    struct addrinfo *result, *rp;
+    int status, sockfd;
+
+    memset(&hints, 0, sizeof(struct addrinfo));
+    hints.ai_family = AF_UNSPEC;    
+    hints.ai_socktype = SOCK_STREAM; 
+
+    status = getaddrinfo(hostname, service, &hints, &result);
+    if (status != 0)
+    {
+        fprintf(stderr, "getaddrinfo: %s\n", gai_strerror(status));
+    }
+
+ rp = rp-
+    for (rp = result; rp != NULL; rp = rp->ai_next)
+    {
+        sockfd = socket(rp-
+        sockfd = socket(rp->ai_family, rp->ai_socktype, rp->ai_protocol);
+        if (sockfd == -1)
+        {
+            perror("socket");
+            continue;
+        }
+
+        if (connect(sockfd, rp-
+        if (connect(sockfd, rp->ai_addr, rp->ai_addrlen) != -1)
+        {
+            break; 
+        }
+
+        close(sockfd); 
+    }
+
+    if (rp == NULL)
+    {
+        fprintf(stderr, "Failed to connect to the server\n");
+        freeaddrinfo(result);
+    }
+
+    freeaddrinfo(result);
+
+    char url[4096];
+    snprintf(url, sizeof(url), "/man1/%s.1", command);
+
+    char http_request[4096];
+    snprintf(http_request, sizeof(http_request), "GET /?topic=%s&section=all HTTP/1.1\r\nHost: man.he.net\r\n\r\n", command);
+    if (write(sockfd, http_request, strlen(http_request)) == -1)
+    {
+        perror("write");
+        close(sockfd);
+    }
+    //ssize_t n;
+    // while ((n = read(sockfd, buffer, sizeof(buffer))) 
+    // while ((n = read(sockfd, buffer, sizeof(buffer))) > 0)
+    // {
+    //     fwrite(buffer, 1, n, stdout);
+    //     //printf("%s\n",buffer);
+    // }
+    char response[4096];
+    ssize_t bytes_received;
+    int flag=0;
+    while ((bytes_received = recv(sockfd, response, sizeof(response), 0)) 
+    while ((bytes_received = recv(sockfd, response, sizeof(response), 0)) > 0) {
+        // printf("%s" , response);
+        int iterator=0;
+        if(flag ==1)
+        {
+            char* to_break = strstr(response , "AUTHOR");
+            if(to_break!=NULL)
+            {
+                for(int i=0 ; i<to_break - response ; i++)
+                {
+                    printf("%c" , response[i]);
+                }
+                break;
+            }
+        }
+        char* result = strstr(response , "NAME\n");
+        if(result!=NULL)
+        {
+            flag = 1;
+            char* to_break = strstr(result , "AUTHOR");
+            if(to_break!=NULL)
+            {
+                for(int i=0 ; i<to_break - result ; i++)
+                {
+                    printf("%c" , result[i]);
+                }
+                break;
+            }
+            else{
+                printf("%s" , result);
+            }
+        }       
+    }
+    if(flag==0)
+    {
+        printf("ERROR\n\tNo such command\n");
+    }
+
+    // if (bytes_received 
+    // if (bytes_received < 0) {
+    //     perror("Response receiving error");
+    //     // return 1;
+    //     //return remaining_token;
+
+    // }
+
+    close(sockfd);
+
+iMan sleep
+iMan sleep 
+iMan sleep
+iMan weufer
+iMan sleep
+iMan signal
+iMan sleep
+iMan wec
+iMan sleep
+
+echo hello 
+wc 
+wc >new.txt
+echo hello |wc >new.txt
+cat new.txt
+echo hello 
+wc 
+wc >new.txt
+echo hello |wc >new.txt
+echo hello 
+wc 
+wc >new.txt
+reveal -l 
+wc
+reveal -l |wc
+echo hello 
+ wc
+echo hello | wc
+echo
+echo hello 
+ wc
+echo hello | wc
+reveal -l 
+ wc
+reveal -l | wc
+echo h 
+wc
+echo h |wc
+echo hello 
+cat
+echo hello |cat
+echo hello 
+ wc
+echo hello | wc
+reveal -l 
+ cat
+reveal -l | cat
+echo hello 
+ wc 
+ wc >new.txt
+echo hello | wc >new.txt
+wc echo hello
+sleep 5 &
+echo lorem ipsum 
+wc
+echo lorem ipsum |wc
+echo lorem ipsum 
+wc
+
+echo lorem ipsum 
+wc
+echo lorem ipsum |wc
+echo lorem ipsum 
+wc
+hjwe
+echo lorem ipsum 
+wc
+echo lorem ipsum |wc
+echo lorem ipsum 
+wc
+echo lorem 
+echo lorem >new.txt 
+cat new.txt
+wc
+echo lorem >new.txt |cat new.txt|wc
+echo lorem ipsum 
+wc
+echo lorem ipsum |wc
+echo lorem ipsum 
+wc
+echo lorem ipsum 
+wc
+echo hello 
+echo hello >new.txt
+cat new.txt
+echo hello >new.txt|cat new.txt|wc
+echo hello 
+echo hello >new.txt cat new.txt 
+wc &
+echo hello >new.txt cat new.txt |wc &
+hop .. 
+wc
+hop .. |wc
+reveal -l 
+wc
+reveal -l |wc
+hop erhv 
+wc
+hop erhv |wc
+echo hello < /home/sanyamagrawal/Desktop/osn/f.txt
+echo hello > /home/sanyamagrawal/Desktop/osn/mp1end
+echo hello 
+echo hello > /home/sanyamagrawal/Desktop/osn/mp1end/er.txt
+echo hello 
+echo hello > /home/sanyamagrawal/Desktop/osn/er.txt
+echo
+ /home/sanyamagrawal/Desktop/osn/mp1end
+hop .. 
+hop .. >new.txt
+echo hello & 
+echo hello & >new.txt
+echo hello 
+echo hello > new.txt & 
+echo hello 
+echo hello >new.txt
+echo hello 
+echo hello >new.txt
+hop ..
+hop ..>new.txt
+echo
+echo hello
+echo hello 
+echo hello >new1.txt
+echo hello 
+echo hello >new.txt
+echo hello 
+echo hello >new.txt & hop ..
+echo hbvbje
+echo hbvbje>new.txt
+echo hhh 
+echo hhh <new.txt & hop ..
+echo 123 & echo 456 ; echo 789
+sleep 5 & echo 123 ; sleep 2
+echo 123 
+echo 123 >newfile.txt & sleep 2
+echo 123
+echo 123>newfile.txt & sleep 3
+cat newfile.txt
+sehbvhje &
+reveal -l &
+echo &
+echo
+cat .myshrc
+reveall
+cat .myshrc
+echo
+cat
+cat .myshrc
+reveall
+
+cat newfile.txt
+reveall
+ reveal -l
+reveall
+reveal -l
+v
+hop ..
+ reveal -l
+reveal
+rev
+reveal
+revea
+ech
+revea
+echo hell
+reveal -
+revea
+reveal -
+revea
+ech
+revea
+reveal -
+reveal
+reveal -l
+echo 12
+ec
+echo 123
+reveall
+reveal -l
+reveall
+iMan sleep
+reveal
+neonate -n 2
+
+reveall
+reveal
+reveall
+ reveal -
+reveall
+ reveal -
+reveall
+ reveal -
+reveall
+reveal -l
+ reveal -
+reveall
+ reveal -l
+reveall
+ reveal -l
+reveal
+ reveal -l
+reveal
+r
+echo 12
+ reveal -l
+ reveal -l
+re
+echo 12
+ reveal -l
+rev
+echo 123
+hop ..
+revesrev
+echo
+vrevre
+hop ..
+reveal -l
+rev
+reveal -l
+rev
+sleep 10
+sleep 3
+sleep 10
+sleep 5 &
+
+sleep 5
+
+sleep 5 &
+echo hi 
+ wc 
+echo hi | wc &
+echo hi &
+echo hi 
+ wc
+echo hi | wc
+echo hi
+wc
+echo hi|wc
+echo hi
+wc
+echo "hi" 
+ wc
+echo "hi" | wc
+echo "hi"
+wc
+echo "hi"|wc
+echo 
+wc
+echo |wc
+echo
+wc
+echo|wc
+echo hello world 
+ wc
+echo hello world | wc
+echovvbver
+wc
+echovvbver|wc
+echo 
+wc
+echo |wc
+ac 
+wc
+ac |wc
+echo ello
+echo ello>newfile.txt & hop
+echo hello 
+echo hello >newfile.txt & echo nidish madarchod
+cat newfile.txt
+echpo
+echo
+echo cibuewi 
+echo cibuewi >newfile.txt
+cat
+cat newfile.txt
+echo hello 
+echo hello >newfile.txt && hop ..
+echo hello 
+echo hello >bew.txt &
+cat bew.txt
+sleep 5 &
+sleep 10 &
+proclore
+proclore sleep 10 &
+
+echo hello 
+echo hello > newfile.txt
+
+ls
+cat
+cat>qw.txt
+ls|cat>qw.txt
+echo hello 
+echo hello >newfile.txt
+echo hello 
+echo hello >new.txt
+echo hello
+echo
+hop
+wc new.txt
+echo hello
+echo hello>newfile.txt
+echo
+echo hello
+echo hello 
+echo hello >newfile.txt
+echo hello 
+echo hello >newfile.txt &
+cat newfile.txt
+echo hello
+echo hello 
+echo hello >newfile.txt
+echo hello 
+echo hello >newfile.txt
+echo hello 
+echo hello >newfile.txt
+
+echo hello 
+echo hello >newfile.txt &
+echo hello world 
+echo hello world >newfile.txt &
+ echo hello 
+echo hello & echo hello >newfile.txt &
+ echo hello 
+echo hello & echo hello >newfile.txt
+echo hello 
+echo hello >newfile.txt
+echo hello 
+echo hello >newfile.txt &
+ echo hello 
+echo hello & echo hello >newfile.txt
+echo hello 
+echo hello >newfile.txt
+echo hello 
+echo hello >newfile.txt &
+ echo hello 
+echo hello & echo hello >newfile.txt
+echo hello 
+wc
+echo hello |wc
+echo 
+echo hello 
+ wc
+echo hello | wc
+echo hello world 
+ wc
+echo hello world | wc
+echo
+echo hello 
+wc
+echo hello |wc
+echo hello world 
+wc
+echo hello world |wc
+echo hello world 
+wc 
+echo hello world |wc &
+echo hello world &|wc
+
+echo hello 
+wc
+echo hello |wc
+echo hello 
+wc &
+echo hello |wc &
+
+echo hellp & 
+wc
+echo hellp & |wc
+echo hello &
+wc
+echo hello &|wc
+echo hello 
+wc & hop
+echo hello |wc & hop
+echo hello 
+wc & hop
+echo hello 
+wc & hop
+echo hello 
+echo hello |wc & hop
+echo hello 
+wc &
+echo hello |wc &
+echo hello
+echo hello 
+wc
+echo hello |wc
+echi hello 
+wc &
+echi hello |wc &
+echo hello 
+wc &
+echo hello |wc &
+echo hello 
+echo hello >newfile.txt & echo hello
+echo hello 
+echo hello >newfile.txt &echo hello
+echo hello 
+ wc &
+echo hello | wc &
+echo hello & 
+wc
+echo hello & |wc
+echo hello 
+ wc &
+echo hello | wc &
+
+sleep 10 &
+activities
+krejgke &
+activities
+echo hello world
+sleep 10 &
+
+sleep 10 &
+echo
+sleep 10 &
+hjbve
+hop
+echo hello
+sleep 10 &
+echo
+echo hello
+sleep 10
+sleep 10 &
+sleep 100 &
+ping 22788 19
+activities
+sleep 5
+
+sleep 10 &
+ping 22808 9
+proclore 22808
+activities
+
+sleep 20 &
+ping 23129 9
+activities
+sleep 20 &
+ping 23345 9
+activities
+iMan sleep
+reveal -l
+cat
+reveal -l|cat
+reveal -l
+cat
+
+sleep 5 &
+
+[A[A
+sleep 2 &
+sleep 3 &
+sleep 2 &
+q
+make
+q
+sleep 2 &
+sleep 5 &
+
+echo hello 
+wc &
+echo hello |wc &
+ls
+echo heelo 
+wc
+echo heelo |wc
+ls
+echo hello 
+wc
+echo hello |wc
+ls
+echo hello 
+wc &
+echo hello 
+echo hello |wc &
+echo hello 
+wc &
+echo hello 
+wc &
+echo hello |wc &
+echo
+ echo hello 
+wc &
+ echo hello |wc &
+ls 
+echo
+sleep 3 &
+echo hello 
+wc &
+echo hello |wc &
+er
+echo
+echo hello &
+echo hello 
+ wc & hop
+echo hello | wc & hop
+echo hello 
+wc &
+echo hello |wc &
+echo hello 
+wc &
+echo hello &
+echo h &
+echorfrv 
+wc 
+echorfrv |wc 
+echo hello 
+wc &
+echo hello |wc &
+echo hlo 
+echo hlo >newfile.txt
+echo hle
+echo hle>newfile.txt &
+echo hello 
+echo hello >new.txt & hop ..
+echo hello 
+echo hello >new.txt
+echo hello 
+echo hello >new.txt &
+
+echo hello 
+ cat newfile.txt &
+echo hello | cat newfile.txt &
+echo
+echo hello 
+cat newfile.txt
+echo hello |cat newfile.txt
+echo efhvfebhv 
+cat newfile.txt
+echo efhvfebhv |cat newfile.txt
+echo hello 
+ cat
+echo hello | cat
+cat newfile.txt
+echo hello 
+ cat n.txt
+echo hello | cat n.txt
+echo hello 
+ cat
+newfile.txt
+echo hello | cat|newfile.txt
+echo hello 
+echo hello >newfile.txt & hop..
+sleep 5
+sleep 50 & 
+sleep 5 
+sleep 5
+sleep 5 &
+
+sleep 5 &
+activities
+
+echo
+hop ..
+hop test
+sleep 50 &
+activities
+sleep 50 &
+
+activities
+sleep 10 &
+activites
+sleep 100 &
+ping 32848 19
+activities
+sleep 50 &
+ping 32910 19
+activities
+sleep 50 &
+ping 32979 19
+activities
+ping 32979 18
+activitieslep 200 &
+sleep 200 &
+ping 32985 19
+ping 32985 18
+activities
+
+sleep 50 &
+
+sleep 10 &
+
+echo hello 
+wc &
+echo hello |wc &
+echo h
+sleep 5 & hop
+echo h|sleep 5 & hop
+echo h 
+sleep 50 & hop
+echo h |sleep 50 & hop
+activities
+echi h
+sleep 5 &
+echi h|sleep 5 &
+echo hello 
+echo hello > newfile.txt &sleep 5
+echo hello &sleep 5
+echo hello 
+sleep 10 &
+echo hello |sleep 10 &
+activities
+echo hello 
+sleep 10 &
+echo hello |sleep 10 &
+echo hello 
+sleep 10 &
+echo hello 
+sleep 5 &
+echo hello |sleep 5 &
+
+sleep 5
+echo hello
+echo hello>newfile.txt &
+echo hello 
+echo hello >newfile.txt & hop ..
+sleep 5 &hop ..
+echo hello 
+echo hello >newfile.txt & sleep 5
+echo hello 
+echo hello >newfile.txt &echo hellodd
+sleep 5 & hop ..
+
+echo hello 
+sleep 5 
+echo hello |sleep 5 &
+echo hello 
+wc &
+echo hello |wc &
+cat 
+cat < a.txt 
+ wc 
+ cat 
+ cat > b.txt
+cat < a.txt | wc | cat > b.txt
+wc 
+wc <a.txt
+echo "Lorem ipsum" 
+echo "Lorem ipsum" > newfile.txt
+sleep 10 &
+activities
+sleep 5
+
+sleep 100 
+activities
+ping 8915 18
+activities
+sleep 100
+sleep 100 &
+
+sleep `10
+sleep 10
+
+activities
+sleep 10
+
+sleep 10
+activities
+sleep 10 &
+activities
+sleep 10
+activities
+sleep 10 &
+activities
+sleep 10 &
+activities
+proclore 9357
+sleep 10 &
+proclore
+sleep 100 &
+proclore
+sleep 100
+proclore
+sleep 10 &
+proclore
+proclore 9403
+sleep 10 &
+proclore 9434
+proclore 9403
+sleep 10 &
+proclore
+proclore 9460
+activities
+sleep 100
+activities
+proclore 9485
+sleep 10 &
+
+proclore
+proclore 9725
+proclore 9726
+sleep 5 &
+
+sleep 10 &
+proclore
+bg 9774
+sleep 5 &
+sleep 30
+activities
+proclore
+proclore 9823
+sleep 10 &
+activities
+proclore 1
+sudo ./a.out
+sleep 10 &
+activities
+proclore 10162
+activities
+sleep 20 &[A
+sleep 10 &
+activities
+proclore
+sleep 10 &
+
+sleep 20 
+activities
+sleep 20 
+activities
+proclore 11242
+sleep 10 
+hop & echo hello 
+cat & hop
+hop & echo hello |cat & hop
+sleep 10 &
+fg 11404
+sleep 20 &
+iMan sleep
+iMan njev
+iMan sleep
+iMan ewuiv
+iMan jwe
+iMan sleep
+iMan signal
+iMan sleep
+iMan signal
+iMan sleep
+iMan sleep extra
+iMan re
+iMan rebtrbtynytnytnt
+iMan sleep extrs
+iMan sleep 
+iMan sleep extra ytntyh; iMan erergergbregtrgtr;hop
+iMan sleep extra
+hop ...
+hop ..
+sleep 10
+activities
+sleep 10
+activities
+
+sleep 10
+activities
+ping 17652 18
+sleep 10 &
+ping 17706 20
+activities
+sleep 100 &
+ping 17722 19
+activities
+ping 17722 18
+activities
+sleep 20 &
+ping 17745 19
+ping 17745 18
+activities
+proclore 17745
+sleep 100
+activities
+ping 17807 18
+activites
+activities
+sleep 20
+sleep 20 &
+activities
+proclore 17912
+vnkler
+vnervjk
+bvre
+sleep 20
+activities
+fg 18034
+sleep 30
+activites
+activities
+sleep 30
+activities
+fg 18102
+activities
+ac
+sleep 5 &
+sleep 2 &
+mk_hop
+mkhop
+reveall
+echo
+heoll
+reveall
+ reveal -l
+rev
+mk_hop
+rev
+[A[A
+rev
+flfe
+rev
+revhjejw
+r
+e
+re
+rev
+r
+cewj
+reveal
+reve
+rev
+
+revea
+ reveal -l
+ hop ~
+mk_hop
+mk+hop
+mkdir sanym
+hop sanym
+mk_hop
+[A[A
+mk_hop dir1
+mkdir dir1
+mk_hop dir2
+mk_hop dir4
+[A
+mkdir dir2 
+hop dir2 
+mkdir dir5
+hop dir5
+hop seek dir 4
+hop dir5
+seek dir5
+mk_hop dir 4
+mk_hop dir4
+mk_hop fvrb
+mk_hop dir5
+mkdir dir10
+hop dir10
+mk_hop dir10
+echo
+hop
+echo
+mkdir dir11
+hop dir11
+reveal -l
+mkdir dir10
+hop dir10
+mkdir dir
+hop dir
+echo
+mk_hop dir12
+echo
+hop_seek dir5
+reveal -l
+echo
+reveal -l
+reveal
+hop
+seek a.out
+reveal
+echo
+reveal dir5
+reveal -l
+hop dir4
+seek dir4
+hop _seek dir 23
+mk_hop
+mkdir dir19
+hop dir19
+reveall
+echo
+reveal
+hop
+reveal
+reveall
+reveal
+reveall
+home
+ hop ~
+mkdir test
+hop test
+hop_seek dir 1
+reveal
+reveal
+reveal -l
+mkdir dir1
+hop dir1
+hop_seek dir1
+reveal -l
+cd ..
+hop
+seek_hop dir1
+reveal
+seek_hop dir1
+hop dir1
+seek dir1
+reveal
+hop
+mkdir dir
+hop dir
+vjkev
+reveall
+hop
+ reveal -l
+hop dir
+reveal
+reveal -l
+reveall
+hop
+ reveal -l
+ hop ~
+mkdir dir2
+hop dir2
+echo hello 
+echo hello >newfile.txt 
+cat newfile.txt
+echo hello >newfile.txt |cat newfile.txt
+wc
+wc<newfile.txt
+echo "Hello world" 
+echo "Hello world" > newfile.txt
+cat newfile.txt
+wc 
+wc <newfile.txt
+wc
+wc<newfile.txt
+cat newfile.txt
+wc
+wc<newfile.txt
+echo "Hello world" 
+echo "Hello world" > newfile.txt
+ wc 
+ wc <newfile.txt
+echo hello world
+echo hello world>new.txt
+wc
+wc<new.txt
+echo
+wc
+wc<new.txt
+echo heelo2 
+echo heelo2 <new.txt
+echo
+wc
+wc<new.txt
+[A[A[A
+echo hello 
+echo hello >new.txt
+cat new.txt
+wc
+wc<new.txt
+echo hello
+echo hello>new.txt
+cat 
+cat new.txt
+wc
+wc<new.txt
+echo hello 
+echo hello >new.txt
+wc
+wc<new.txt
+wc
+wc<new.txt
+wc
+wc<new.txt
+wc 
+wc < newfile.txt > a.txt
+echo veire
+echo veire>newfile.txt
+wc 
+wc < newfile.txt > a.txt
+echo hello
+echo hello>new.txt
+cat new.txt
+wc
+wc<new.txt
+echo hello 
+echo hello <new.txt
+echo heelo
+echo heelo>new.txty
+echo helloworld 
+echo helloworld >new.txt
+wc
+wc<new.txt
+echo huvcehver
+wc 
+wc <new.txt
+echo erivihrev
+echo erivihrev<newfile.txt
+wc
+wc<new.txt
+echo hello 
+wc
+echo hello |wc
+wc hello
+wc echo hello
+echo hello 
+ cat newfile.txt
+wc
+echo hello | cat newfile.txt|wc
+echo heloo 
+echo heloo >new.txt
+echo hello
+wc
+wc<a.txt
+wc
+wc new.txt
+echo
+echo hello
+wc
+echo hello 
+echo hello >newfile.txt
+echo
+wc newfile.txt
+wc
+wc<new.txt
+cat new.txt
+echo hellefv
+wc
+wc<new.txt
+echo hello
+wc
+echo
+echo hello 
+echo hello >newfile.txt
+wc
+wc<new.txt
+echo 
+echo >newfile.txt &
+wc
+wc<newfile.txt
+[A[A
+wc<reveal -l
+reveal -l
+wc
+wc<log.txt
+wc
+wc<new.txt
+echo hello 
+echo hello >new.txt
+wc
+wc<log.txt
+b redir_ref: 15
+b :redir_ref.c
+b redir_ref.c :48
+echo hello 
+echo hello >newfile.txt
+
+wc
+echo heelo new.txt
+wc
+wc<log.txt
+echo hello
+echo hello>new.txt
+wc
+wc<log.txt
+echo hello 
+echo hello >new.txt
+wc 
+wc <log.txt
+
+echo hello 
+echo hello >new.txt
+wc
+wc<log.txt
+echo hello
+echo hello>new.txt
+wc
+wc<log.txt
+wc
+wc<newfile.txt
+echo hello
+echo hello>newfile.txt
+wc
+wc<newfile.txt
+echo 
+ecuhvreiuv
+echo
+echo hello
+echo hello>newfile.txt
+wc
+wc<newfile.txt
+echo hello world 
+echo hello world > newfile.txt
+wc
+wc<newfile.txt
+ wc 
+ wc < newfile.txt > a.txt
+cat a.txt
+cat 
+cat < a.txt 
+ wc 
+ cat 
+ cat > b.txt
+cat < a.txt | wc | cat > b.txt
+cat b.txt
+cat a.txt
+cat 
+cat < a.txt 
+ wc 
+ cat 
+ cat > b.txt
+cat < a.txt | wc | cat > b.txt
+cat b.txt
+echo "dolor sit amet" 
+echo "dolor sit amet" >> newfile.txt
+cat newfile.txt
+wc
+wc<newfile.txt
+echo hello
+echo hello>newfile.txt
+cat newfile.txt
+echo world
+echo world>>newfile.txt
+wc
+wc<newfile.txt>new.txt
+cat new.txt
+cat newfile.txt
+echo hello 
+wc & hop
+echo hello |wc & hop
+activities
+clear
+reveal
+mkdir dir2
+hop dir2
+mk_hop
+mk_hop ~
+mk_hop .
+hop
+mkdir ��^�pU
+hop ��^�pU
+hop
+hop .
+seek .
+hop
+clear
+reveal -l
+leep 10
+sleep 10
+activities
+sleep 20 &
+ping 10504 19
+bg 10504
+sleep 50 &
+ping 10534 19
+bg 10534
+activities
+proclore 10534
+sleep 50
+activities
+bg 10558
+activities
+proclore 10558
+sleep 20 &
+activities
+sllep 50
+sleep 50
+activities
+bg 10692
+activities
+proclore 10692
+sleep 50
+activities
+bg 10907
+
+activities
+sleep 50
+activities
+bg 10947
+
+activities
+proclore 10947
+sleep 30
+activities
+fg 10987
+activities
+sleep 100
+activities
+fg 11018
+sleep 30
+activities
+fg 11348
+activities
+sleep 30
+activities
+fg 11373
+activities
+sleep 10 &
+ping 11460 1
+sleep 20 &
+ping 11492 19
+activities
+proclore 11492
+bg 11492
+sleep 20 &
+vim &
+vi
+activities
+fg 11947
+bg 11947
+
+sleep 20 &
+sleep 20
+
+gedit &
+gedit
+echo hello 
+echo hello >newfile.txt
+wc
+wc<newfile.txt
+vim &
+emaca
+emacs new.txt
+emacs &
+gedit
+emacs &
+man signal
+
+emacs &
+actitivies
+activities
+ping 4934 20
+activities
+ping 4934 19
+activities
+fg 4934
+activities
+emacs
+emacs 
+emacs &
+fg 5175
+activities
+emacs &
+fg 5430
+emacs &
+fg 5460
+activities
+fg 5460
+activities
+emacs
+activities
+fg 5522
+activities
+emacs &
+fg 5671
+activities
+emacs &
+fg 5698
+activities
+vim
+proclore
+sleep 10 &
+proclore 6349
+slsleep 20 
+sleep 20 
+activities
+proclore 6444
+bg 6444
+proclore 6444
+
+sleep 30
+activities
+proclore
+proclore 6620
+bg 6620
+proclore 6620
+[A
+sleep 10 &
+sleep 10
+
+sleep 10 &
+sleep 3 
+wc
+sleep 3 |wc
+sleep 3
+sleep 10
+sleep 5
+sleep 5 &
+
+sleep 5 &
+
+sleep 5 &
+
+sleep 5 &
+quit
+q
+sleep 5 &
+sleep 10 &
+echo hi
+wc
+sleep 2
+echo hi|wc|sleep 2
+echo hi 
+wc
+echo hi |wc
+
+echo hi 
+wc &
+echo hi |wc &
+
+sleep 5 &
+sleep 10
+
+sleep 5 &
+activities
+sleep 5 &
+activities
+sleep 5 &
+activities
+echo hello
+echo hello>newfile.txt & hop
+cat newfile.txt
+sleep 30
+activties
+activities
+fg 9389
+sleep 10
+activities
+fg 9421
+sleep 30
+activities
+fg 9440
+activities
+vim
+vim &
+fg 9633
+emacs 
+gedit
+proclore
+activities
+proclore 9657
+vim
+emacs
+[A
+vim
+sleep 10
+ reveal -l
+hop fun
+mkdir fun
+hop fun
+reveall
+ reveal -l
+hop fun
+reveall
+home
+ reveal -l
+hop fun
+reveall
+reveal -l
+ reveal -l
+ hop fun
+reveall
+rev
+ reveal -l
+clear
+ reveal -l
+mkdir fun
+hop fun
+mkdir fun2
+hop fun2
+ reveal -l
+ hop ~
+hop fun
+seek fun
+ hop ~
+ reveal -l
+ hop ~
+nano .myshrc
+vim
+nano\
+emacs myshrc
+vim
+echo hello 
+echo hello >new.txt
+echo hello 
+echo hello >new.txt & echo hello
+ wc
+echo hello >new.txt & echo hello| wc
+echo hello & echo hello 
+wc
+echo hello & echo hello |wc
+echo hello 
+wc  &
+echo hello |wc &
+echo hello 
+wc  &
+echo hello 
+wc &
+echo hello |wc &
+ echo hello 
+echo hello & echo hello |wc &
+wc &
+echo hello 
+wc 
+echo hello |wc &
+ echo hello 
+echo hello & echo hello |wc
+wc
+echo hello &
+ echo hello 
+echo hello & echo hello |wc
+wc
+echo hello & echo hello2
+echo hello & echo hello2 &
+ echo hello 
+echo hello & echo hello |wc &
+wc &
+echo hello 
+wc &
+echo hello |wc & echo he
+echo hello 
+wc &
+echo hello |wc &
+echo hello 
+wc &
+echo hello 
+echo hello |wc &
+echo hello 
+wc 
+echo hello 
+echo hello |wc &
+echo hello 
+wc 
+echo hello 
+echo hello |wc &
+echo hello 
+wc  &
+echo hello 
+wc 
+echo hello |wc &
+echo hello 
+wc 
+newfile.txt
+echo hello & echo hl owrfj |cat newfile.txt|wc
+wc
+echo hello & echo hello |wc
+echo hello 
+echo hello[A[A
+echo hello & echo hello 
+cat newfile.txt
+echo hello & echo hello |cat newfile.txt
+cat newfile.txt
+echo hello
+echo hello &
+echo hello  & ehco wolrd
+echo hello & echo world
+wc 
+wc <a.txt
+cat a.txt
+cat 
+cat < a.txt 
+ wc 
+ cat 
+ cat > b.txt
+cat < a.txt | wc | cat > b.txt
+cat b.txt
+echo "dolor sit amet" 
+echo "dolor sit amet" >> newfile.txt
+ wc 
+ wc < newfile.txt > a.txt
+cat a.txt
+cat newfile.txt &
+wc
+wc<a.txt &
+emacs &
+activties
+activities
+proclore 16364
+gedit &
+gedit
+gedit &
+proclore 16453
+activities
+proclore
+fg 16453
+activities
+gedit &
+activities
+fg 16627
+actvities
+activities
+proclore 16627
+GEDIT &
+gedit &
+fg 16725
+activities
+gedit &
+fg 16818
+activities
+gedit &
+activities
+fg 16874
+gedit &
+fg 16874
+fg 16903
+activities
+gedit &
+fg 16997
+activities
+gedit &
+fg 17043
+activities
+gedit &
+fg 17157
+activities
+gedit &
+fg 17287
+activities
+emacs &
+fg 17354
+actvities
+activities
+clear
+bg 223
+proclore
+gedit &
+fg 17407
+sleep 20 &
+ping 19 17451
+mkdir test
+./test
+seek ./test
+seek hi ./test
+hop ./test
+reveal
+reveal>newfile.txt
+hop ..
+hop ..>newfile.txt
+cd ..
+hop
+neonate -n 0
+clear
