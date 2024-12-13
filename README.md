@@ -1,6 +1,6 @@
 # C-Shell
 Mini Project 1 of Operating Systems and Networks Course. I have implemented a custom C shell from scratch
-Here's a concise list of functions your shell performs with their formats and descriptions for the README file:
+Here's a concise list of functions my shell performs with their formats and descriptions for the README file:
 
 ---
 
