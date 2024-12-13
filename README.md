@@ -65,5 +65,3 @@ Here's a concise list of functions your shell performs with their formats and de
       - `hop_seek`: Hops to a directory and searches for matching files/directories.
 
 ---
-
-Feel free to adapt the descriptions and formats as needed!
